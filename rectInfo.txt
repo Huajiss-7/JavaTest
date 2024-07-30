@@ -1,0 +1,15 @@
+weight:1.0 length:1.0 area1.0 parameter:4.0weight:2.0 length:2.0 area4.0 parameter:8.0weight:3.0 length:3.0 area9.0 parameter:12.0weight:4.0 length:4.0 area16.0 parameter:16.0weight:5.0 length:5.0 area25.0 parameter:20.0weight:6.0 length:6.0 area36.0 parameter:24.0weight:7.0 length:7.0 area49.0 parameter:28.0weight:8.0 length:8.0 area64.0 parameter:32.0weight:9.0 length:9.0 area81.0 parameter:36.0weight:10.0 length:10.0 area100.0 parameter:40.0weight:11.0 length:11.0 area121.0 parameter:44.0weight:12.0 length:12.0 area144.0 parameter:48.0weight:13.0 length:13.0 area169.0 parameter:52.0weight:14.0 length:14.0 area196.0 parameter:56.0weight:15.0 length:15.0 area225.0 parameter:60.0weight:1.0 length:1.0 area1.0 parameter:4.0
+weight:2.0 length:2.0 area4.0 parameter:8.0
+weight:3.0 length:3.0 area9.0 parameter:12.0
+weight:4.0 length:4.0 area16.0 parameter:16.0
+weight:5.0 length:5.0 area25.0 parameter:20.0
+weight:6.0 length:6.0 area36.0 parameter:24.0
+weight:7.0 length:7.0 area49.0 parameter:28.0
+weight:8.0 length:8.0 area64.0 parameter:32.0
+weight:9.0 length:9.0 area81.0 parameter:36.0
+weight:10.0 length:10.0 area100.0 parameter:40.0
+weight:11.0 length:11.0 area121.0 parameter:44.0
+weight:12.0 length:12.0 area144.0 parameter:48.0
+weight:13.0 length:13.0 area169.0 parameter:52.0
+weight:14.0 length:14.0 area196.0 parameter:56.0
+weight:15.0 length:15.0 area225.0 parameter:60.0

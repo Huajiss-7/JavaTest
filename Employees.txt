@@ -1,0 +1,3 @@
+zhangsan   teacher         10    15.00 150.00 
+lisi       student         20    10.00 200.00 
+wangwu     police          5     8.00  40.00  
